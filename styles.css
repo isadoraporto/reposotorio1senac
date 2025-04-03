@@ -1,0 +1,25 @@
+body{
+    background: -o-linear-gradient(20%);
+    background-color:rgb(63, 65, 47);   
+
+    }
+   
+    header{
+        height:  200px;
+        line-height: 200px;
+        font-size: larger;
+        font-family:  Monospace;
+        color: rgb(187, 180, 172);
+        text-align:center;
+    }
+
+    imagemborda{
+        background-image: url(imagens\ usadas/);
+        background-position: left ;
+        height: auto;
+
+
+    }
+ itens{
+     
+ }
